@@ -3,6 +3,7 @@ Task-01: Responsive Landing Page
 This project is created as part of the Prodigy Infotech Web Development Internship by Esha Dattaram Patil.
 
 Task Objective:
+
 Build a Responsive Landing Page with an interactive navigation menu that:
 Changes color or style when the user scrolls or hovers over a menu item.
 Has a fixed position, so it remains visible while navigating through the page.
