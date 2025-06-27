@@ -1,4 +1,5 @@
-Task-01: Responsive Landing Page
+# Task 1 
+Responsive Landing Page
 
 This project is created as part of the Prodigy Infotech Web Development Internship by Esha Dattaram Patil.
 
